@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1000062821763",
+    "firebase_url": "https://medicina-485a0.firebaseio.com",
+    "project_id": "medicina-485a0",
+    "storage_bucket": "medicina-485a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000062821763:android:0375115dd2719193",
+        "android_client_info": {
+          "package_name": "kc.ac.kpu.medicina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000062821763-qiqmv6n28vhf7n27ml8jf7j0q14holla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kc.ac.kpu.medicina",
+            "certificate_hash": "b080ca30fab674f6431f20d19eb4dcc37566ce06"
+          }
+        },
+        {
+          "client_id": "1000062821763-qnfp7ds851qau9uuvv926b1hlbj1j5te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-rfrJ30LcOTu6QOernwqyB-QlsfndVmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000062821763-qnfp7ds851qau9uuvv926b1hlbj1j5te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
